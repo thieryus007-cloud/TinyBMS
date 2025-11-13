@@ -4,7 +4,8 @@ Un pont UART-CAN entre systèmes de gestion de batterie TinyBMS et systèmes én
 
 ## 📋 Vue d'ensemble
 
-Ce projet implémente un pont de communication permettant aux batteries gérées par TinyBMS de communiquer avec les systèmes Victron (GX, MultiPlus, etc.) via le protocole CAN-BMS de Victron.
+Ce projet implémente un pont de communication permettant aux batteries gérées par TinyBMS de communiquer avec les systèmes Victron (GX, MultiPlus, etc.) 
+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-AAAAAAAAAAAA
 
 ### Fonctionnalités principales
 
