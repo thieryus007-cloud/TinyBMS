@@ -1,5 +1,7 @@
 # TinyBMS-Victron Bridge
 
+https://www.waveshare.com/wiki/ESP32-P4-WIFI6-Touch-LCD-7B
+
 Un pont UART-CAN entre systèmes de gestion de batterie TinyBMS et systèmes énergétiques Victron, basé sur ESP32.
 
 ## 📋 Vue d'ensemble
